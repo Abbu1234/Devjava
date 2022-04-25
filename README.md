@@ -1,2 +1,0 @@
-# Devjava
-Devi's Java
